@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Sudarshan
+
+🚀 IT Engineer | MERN Stack Developer | DSA & DBMS | AI Integration | Exploring DevOps 
 
 
 ## 🌐 Socials:
